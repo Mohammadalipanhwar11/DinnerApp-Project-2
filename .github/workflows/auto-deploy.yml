@@ -34,4 +34,4 @@ jobs:
     - name: installing surge
       run: npm install -g surge
     - name: deploy the app
-      run: surge ./build DinnerApp-Project-2.surge.sh --token ${secrets.SURGE_TOKEN}
+      run: surge ./build DinnerApp-Project-2.surge.sh --token ${{secrets.SURGE_TOKEN}}
