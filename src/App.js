@@ -8,7 +8,7 @@ function App() {
       <Dinner dishName="Chicken Karahi" sweet="Custurd"/>
       <Dinner dishName="Chicken Biryani" sweet="Custurd"/>
 
-      <h2>This is just for the</h2>
+      <h2>Thanks for reaching, Thumbs Up! </h2>
     </div>
     
   );
